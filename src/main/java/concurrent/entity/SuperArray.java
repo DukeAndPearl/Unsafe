@@ -1,6 +1,6 @@
 package concurrent.entity;
 
-import concurrent.examples.Checker;
+import concurrent.examples.checker.Checker;
 
 public class SuperArray extends Checker {
 

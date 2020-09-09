@@ -1,7 +1,5 @@
 package concurrent;
 
-import concurrent.examples.FastSerialization;
-
 public class Main {
 
     /**
@@ -12,7 +10,8 @@ public class Main {
         // new PrincipleSkipChecker().check();
         // new ShallowCopyChecker().check();
         // new HidePasswordChecker().check();
-        new FastSerialization().check();
+        // new FastSerialization().check();
+        // new CounterChecker().check();
     }
 
 }
